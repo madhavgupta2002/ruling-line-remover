@@ -47,7 +47,3 @@ pip install opencv-python numpy Pillow img2pdf PyPDF2 PyMuPDF tkinter
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 📜 License
-
-[Add your license information here]

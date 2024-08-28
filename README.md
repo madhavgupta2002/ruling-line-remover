@@ -1,6 +1,6 @@
-# 📄 Image/PDF Processor 🖼️
+# 📄 Ruling Line Removal in Handwritten Pages 🖼️
 
-This application processes images and PDFs to remove horizontal lines and enhance the overall quality of the document.
+This application processes images and PDFs to remove horizontal lines from handwritten scanned documents, generally written on a notebook.
 
 ## 🌟 Features
 
